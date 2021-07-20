@@ -1,0 +1,13 @@
+.container{
+    background-color: mediumpurple;
+    display: grid;    
+    width: 800px;
+    height: 400px;
+    grid-template-rows: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.children{
+    border-style: outset;
+    background-color: lightcoral;
+}

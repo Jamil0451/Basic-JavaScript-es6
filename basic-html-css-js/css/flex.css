@@ -1,0 +1,15 @@
+#parent{
+    display: flex;
+    background-color: mistyrose;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: flex-end;
+}
+
+.children{
+    flex-grow: 4;
+    background-color:palegreen;
+    border-style: outset;
+
+}
